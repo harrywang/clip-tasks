@@ -1,0 +1,7 @@
+git+https://github.com/openai/CLIP.git
+transformers
+pandas
+matplotlib
+tqdm
+wget
+pytube

@@ -1,0 +1,1 @@
+this folder will be used to hold encoded image features in numpy
