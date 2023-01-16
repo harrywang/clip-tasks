@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 
 # Unsplash Dataset
-`1k-compressed` (~42M) is included in this repo. `1k` (~8.45G) and `5k-compressed` (~213M) will be shared on Kaggle.
+`1k-compressed` (~42M) is included in this repo. `1k` (~8.45G) and `5k-compressed` (~213M) can be downloaded from [Kaggle](https://www.kaggle.com/datasets/harrywang/unsplash).
 
 - use `unsplash-downloader.ipynb` to download ~ 9000 images
 - use `unsplash-1k-5k.ipynb` to select 1k and 5k images
