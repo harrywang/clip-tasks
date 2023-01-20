@@ -2,6 +2,7 @@ git+https://github.com/openai/CLIP.git
 transformers
 pandas
 matplotlib
+scikit-learn
 tqdm
 wget
 pytube
