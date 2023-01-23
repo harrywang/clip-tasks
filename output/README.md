@@ -1,0 +1,1 @@
+output for image and vido manipulation
